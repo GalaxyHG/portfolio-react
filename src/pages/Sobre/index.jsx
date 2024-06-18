@@ -6,12 +6,7 @@ import { IoLogoHtml5 } from "react-icons/io5";
 function Sobre() {
     return (
         <>
-            <Header />
-            <Container>
-                <h2>Sobre <IoLogoHtml5 /></h2>
-                
-            </Container>
-            <Footer />
+            <h2>Sobre</h2>
         </>
     )
 }
