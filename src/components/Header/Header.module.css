@@ -24,3 +24,13 @@
 .header a:hover {
     color: var(--red);
 }
+
+.icone {
+    font-size: 1.5rem;
+    color: var(--white);
+    margin-bottom: -4px;
+}
+
+.icone:hover {
+    color: var(--red);
+}

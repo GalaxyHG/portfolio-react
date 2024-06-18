@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import styles from './Header.module.css'
+import { IoHome } from "react-icons/io5";
 
 function Header() {
     return (
@@ -8,7 +9,7 @@ function Header() {
                 <span>Helena Rezende</span>
             </Link>
             <nav>
-                <Link to="/">Home</Link>
+                <Link to="/"><IoHome className={styles.icone}/></Link>
                 <Link to="/sobre">Sobre</Link>
                 <Link to="/projetos">Projetos</Link>
                 <Link to="/contatos">Contatos</Link>

@@ -1,3 +1,6 @@
+.avatar {
+    width: 400px;
+}
 
 .sobre {
     width: 100%;
@@ -44,6 +47,7 @@
     justify-content: space-around;
 }
 
-.icones img {
-    height: 50px;
+.icone {
+    font-size: 3rem;
+    color: var(--red);
 }

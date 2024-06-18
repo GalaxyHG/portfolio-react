@@ -6,10 +6,10 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 
-  --primary: #16213E;
-  --secondary: #0F3460;
+  --primary: #000000;
+  --secondary: #009700;
   --terceary: #533483;
-  --red: #E94560;
+  --red: #ff0000;
   --soft-white: #f1f1f1;
   --white: #fefefe;
   --black: #111;
